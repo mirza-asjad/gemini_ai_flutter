@@ -1,3 +1,3 @@
 # gemini_ai_flutter
 
-A new Flutter project.
+GEMINI AI FLUTTER BOT
